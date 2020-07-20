@@ -16,7 +16,7 @@ Install the usual [composer](https://getcomposer.org/) way.
 ```json
 {
 	"require" : {
-		"lord/laroute" : "2.*"
+		"tweaker/laroute" : "2.*"
 	}
 }
 ```
