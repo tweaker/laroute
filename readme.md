@@ -15,11 +15,11 @@ Install the usual [composer](https://getcomposer.org/) way.
 ###### composer.json
 ```json
 "repositories": [
-        {
-            "type": "git",
-            "url": "https://github.com/tweaker/laroute"
-        }
-    ],
+    {
+        "type": "git",
+         "url": "https://github.com/tweaker/laroute"
+    }
+],
 ```
 ```json
 {
