@@ -1,5 +1,5 @@
 {
-    "name": "lord/laroute",
+    "name": "tweaker/laroute",
     "description": "Access Laravels URL/Route helper functions, from JavaScript.",
     "keywords"  : ["laravel", "routes", "routing", "javascript"],
     "authors": [
